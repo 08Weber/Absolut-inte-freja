@@ -1,0 +1,119 @@
+body {
+    overflow: hidden;
+    background: linear-gradient(#3B3E98, #1681D3);
+}
+
+.content2 {
+    position: absolute;
+    height: 100vh;
+    width: 100%;
+    background: linear-gradient(#3B3E98, #1681D3);
+}
+
+.inputFormContainer {
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: -70px;
+}
+
+.formContent {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 90%;
+    height: 500px;
+}
+
+.formContent input {
+    padding-left: 20px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+    width: 100%;
+    max-width: 390px;
+    height: 50px;
+    border-radius: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color: white;
+}
+
+.btn1 {
+    cursor: pointer;
+    padding-left: 20px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+    width: 100%;
+    max-width: 390px;
+    height: 50px;
+    border-radius: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color: white;
+}
+
+.updateAgeContent {
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50px;
+    width: 100%;
+}
+
+.updateAgeContent button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: 800;
+    background-color: white;
+    color: black;
+    font-size: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    width: 30px;
+    height: 30px;
+    border-radius: 10px;
+}
+
+.socialContent {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    font-weight: 700;
+    position: absolute;
+    bottom: 50px;
+    color: white;
+}
+
+#logout {
+    width: 100%;
+    color: white;
+    background-color: #3B3E98;
+    position: absolute;
+}
+
+/*
+     FILE ARCHIVED ON 20:50:39 Jan 06, 2025 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 22:09:21 Mar 01, 2025.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 0.456
+  exclusion.robots: 0.019
+  exclusion.robots.policy: 0.009
+  esindex: 0.01
+  cdx.remote: 31.316
+  LoadShardBlock: 369.971 (3)
+  PetaboxLoader3.resolve: 381.147 (3)
+  PetaboxLoader3.datanode: 209.141 (4)
+  load_resource: 276.606
+*/
